@@ -1,0 +1,42 @@
+div{
+  overflow:hidden;
+}
+.rainbow{
+  height:250px;
+  background-color: white;
+  overflow: hidden;
+}
+.red{
+  width:500px;
+  border-radius: 50%;
+  height:500px;
+  margin:20px;
+  background-color: red;
+}
+.yellow{
+  margin:20px;
+  border-radius:50%;
+  height:480px;
+  background-color: yellow;
+}
+.green{
+  margin:20px;
+    border-radius: 50%;
+    height:460px;
+    background-color: green;
+}
+.blue{
+  margin:20px;
+  border-radius: 50%;
+  height:440px;
+  background-color: blue;
+}
+.purple{
+  margin:20px;
+  border-radius: 50%;
+  height:420px;
+  background-color: purple;
+}
+.white{
+  background-color: white;
+}
